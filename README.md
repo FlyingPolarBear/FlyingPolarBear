@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlyingPolarBear
 - 👀 I’m interested in the Sky
-- 🌱 I’m currently learning Flying
+- 🌱 I’m currently learning in USTC
 - 💞️ I’m looking to collaborate on Knowledge Graph
 - 📫 Reach me by email: derrylv@qq.com
 
