@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FlyingPolarBear
-- 👀 I’m interested in the Sky
-- 🌱 I’m currently learning in USTC
-- 💞️ I’m looking to collaborate on Knowledge Graph
+- 🐻‍❄ I’m a polarbear flying in the sky of cyberspace
+- 🚩 I've just gradulated from Xidian University (XDU), Xi'an, China
+- 🌸 I’m currently learning in University of Science and Technology of China (USTC), Hefei, China
+- 💞️ I’m looking to collaborate on Knowledge Graph (KG) and Natural Language Processing (NLP)
 - 📫 Reach me by email: derrylv@qq.com
 
 <!---
