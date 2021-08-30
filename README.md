@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @FlyingPolarBear
-- 🐻‍❄ I’m a polarbear flying in the sky of cyberspace
-- 🚩 I've just gradulated from Xidian University (XDU), Xi'an, China
-- 🌸 I’m currently studying at University of Science and Technology of China (USTC), Hefei, China
-- 💞️ I’m looking to collaborate on Knowledge Graph (KG) and Natural Language Processing (NLP)
-- 📫 Reach me by email: derrylv@qq.com
+Hi there 👋
+
+I’m  @FlyingPolarBear 🐻‍❄ 
+
+I've gradulated from Xidian University, Xi'an, China 🚩
+
+I’m studying for a master's degree in CS at USTC, Hefei, China ☀️
+
+My interest inculdes ML & KG & NLP & CV (really a lot😄)
+
+Reach me by email: derrylv@qq.com 📫
 
 <!---
 FlyingPolarBear/FlyingPolarBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
