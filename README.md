@@ -6,7 +6,7 @@ I’m working toward the M.Sc. degree in CS at USTC, Hefei, China ☀️
 
 My interest inculdes many areas of AI (e.g. Image Processing/ Knowledge Graph) 😄
 
-Recently I'm interset in causal discovery 🥰
+Recently I'm interset in Causal Discovery 🥰
 
 Reach me by email: derrylv@qq.com 📫
 
