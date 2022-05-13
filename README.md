@@ -8,11 +8,11 @@ My interest inculdes many areas of AI (e.g. Image Processing / Knowledge Graph /
 
 Reach me by email: derrylv@qq.com 📫
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingpolarbear&show_icons=true&hide=contribs,prs&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingpolarbear&show_icons=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingpolarbear&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingpolarbear&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingpolarbear&repo=CityKBQA&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyingpolarbear&repo=CityKBQA)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 FlyingPolarBear/FlyingPolarBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
