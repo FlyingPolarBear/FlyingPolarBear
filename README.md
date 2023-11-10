@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m  @FlyingPolarBear 🐻‍❄ 
 
-I’m working toward the M.Sc. degree in CS at USTC, Hefei, China ☀️
+I’m working toward the Ph.D degree in CS at USTC, Hefei, China ☀️
 
 My interest inculdes many areas of AI (e.g. Image Processing / Knowledge Graph / Causal Learning) 😄
 
