@@ -6,7 +6,7 @@ I’m working toward the Ph.D degree in CS at USTC, Hefei, China ☀️
 
 My interest inculdes many areas of AI (e.g. Image Processing / Knowledge Graph / Causal Learning) 😄
 
-Reach me by email: derrylv@qq.com 📫
+Reach me by email: derrylvATqq.com 📫
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingpolarbear&show_icons=true&hide=contribs,prs)
 
